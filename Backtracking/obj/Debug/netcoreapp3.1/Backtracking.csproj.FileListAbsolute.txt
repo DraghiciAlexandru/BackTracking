@@ -1,0 +1,11 @@
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.exe
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.deps.json
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.runtimeconfig.json
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.runtimeconfig.dev.json
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.dll
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.pdb
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.csprojAssemblyReference.cache
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.AssemblyInfoInputs.cache
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.AssemblyInfo.cs
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.dll
+D:\C#\ConsoleApps\OOP\Abstractizarea\Generics\Backtracking\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.pdb
